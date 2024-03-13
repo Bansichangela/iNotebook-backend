@@ -1,1 +1,3 @@
-<h1>dklsjf</h1>;
+const connectToMongo = require("./db");
+
+connectToMongo();
